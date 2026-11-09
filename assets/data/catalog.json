@@ -1,0 +1,5115 @@
+{
+ "canvas": {
+  "width": 1024,
+  "height": 2048
+ },
+ "characters": [
+  {
+   "id": "mia",
+   "name": "Mia",
+   "order": 1,
+   "tagline": "Cheerful and always fashionable",
+   "portraitPath": "assets/characters/mia/portrait.webp",
+   "previewPath": "assets/characters/mia/preview.webp",
+   "defaultHairstyleId": "hair_long_wavy",
+   "defaultAccessoryIds": [
+    "acc_bow_pink",
+    "acc_earrings_small"
+   ],
+   "body": {
+    "assetPath": "assets/characters/mia/body.webp",
+    "anchorX": 0.18066,
+    "anchorY": 0.05176,
+    "width": 0.63867,
+    "height": 0.92725
+   },
+   "baseTop": {
+    "layerIndex": 41,
+    "assetPath": "assets/characters/mia/base_top.webp",
+    "anchorX": 0.37012,
+    "anchorY": 0.21777,
+    "width": 0.25977,
+    "height": 0.20801
+   },
+   "baseBottom": {
+    "layerIndex": 40,
+    "assetPath": "assets/characters/mia/base_bottom.webp",
+    "anchorX": 0.32715,
+    "anchorY": 0.40723,
+    "width": 0.3457,
+    "height": 0.16943
+   },
+   "bodyLayerIndex": 30
+  },
+  {
+   "id": "emma",
+   "name": "Emma",
+   "order": 2,
+   "tagline": "Elegant and golden-haired",
+   "portraitPath": "assets/characters/emma/portrait.webp",
+   "previewPath": "assets/characters/emma/preview.webp",
+   "defaultHairstyleId": "hair_long_wavy",
+   "defaultAccessoryIds": [
+    "acc_earrings_small"
+   ],
+   "body": {
+    "assetPath": "assets/characters/emma/body.webp",
+    "anchorX": 0.18066,
+    "anchorY": 0.05176,
+    "width": 0.63867,
+    "height": 0.92725
+   },
+   "baseTop": {
+    "layerIndex": 41,
+    "assetPath": "assets/characters/emma/base_top.webp",
+    "anchorX": 0.37012,
+    "anchorY": 0.21777,
+    "width": 0.25977,
+    "height": 0.20801
+   },
+   "baseBottom": {
+    "layerIndex": 40,
+    "assetPath": "assets/characters/emma/base_bottom.webp",
+    "anchorX": 0.32715,
+    "anchorY": 0.40723,
+    "width": 0.3457,
+    "height": 0.16943
+   },
+   "bodyLayerIndex": 30
+  },
+  {
+   "id": "lily",
+   "name": "Lily",
+   "order": 3,
+   "tagline": "Youthful and playful",
+   "portraitPath": "assets/characters/lily/portrait.webp",
+   "previewPath": "assets/characters/lily/preview.webp",
+   "defaultHairstyleId": "hair_short_bob",
+   "defaultAccessoryIds": [
+    "acc_clip_bar_gold",
+    "acc_earrings_hoops"
+   ],
+   "body": {
+    "assetPath": "assets/characters/lily/body.webp",
+    "anchorX": 0.18066,
+    "anchorY": 0.05176,
+    "width": 0.63867,
+    "height": 0.92725
+   },
+   "baseTop": {
+    "layerIndex": 41,
+    "assetPath": "assets/characters/lily/base_top.webp",
+    "anchorX": 0.37012,
+    "anchorY": 0.21777,
+    "width": 0.25977,
+    "height": 0.20801
+   },
+   "baseBottom": {
+    "layerIndex": 40,
+    "assetPath": "assets/characters/lily/base_bottom.webp",
+    "anchorX": 0.32715,
+    "anchorY": 0.40723,
+    "width": 0.3457,
+    "height": 0.16943
+   },
+   "bodyLayerIndex": 30
+  },
+  {
+   "id": "sofia",
+   "name": "Sofia",
+   "order": 4,
+   "tagline": "Feminine with big bouncy curls",
+   "portraitPath": "assets/characters/sofia/portrait.webp",
+   "previewPath": "assets/characters/sofia/preview.webp",
+   "defaultHairstyleId": "hair_curly",
+   "defaultAccessoryIds": [
+    "acc_earrings_small"
+   ],
+   "body": {
+    "assetPath": "assets/characters/sofia/body.webp",
+    "anchorX": 0.18066,
+    "anchorY": 0.05176,
+    "width": 0.63867,
+    "height": 0.92725
+   },
+   "baseTop": {
+    "layerIndex": 41,
+    "assetPath": "assets/characters/sofia/base_top.webp",
+    "anchorX": 0.37012,
+    "anchorY": 0.21777,
+    "width": 0.25977,
+    "height": 0.20801
+   },
+   "baseBottom": {
+    "layerIndex": 40,
+    "assetPath": "assets/characters/sofia/base_bottom.webp",
+    "anchorX": 0.32715,
+    "anchorY": 0.40723,
+    "width": 0.3457,
+    "height": 0.16943
+   },
+   "bodyLayerIndex": 30
+  },
+  {
+   "id": "ava",
+   "name": "Ava",
+   "order": 5,
+   "tagline": "Graceful and elegant",
+   "portraitPath": "assets/characters/ava/portrait.webp",
+   "previewPath": "assets/characters/ava/preview.webp",
+   "defaultHairstyleId": "hair_long_wavy",
+   "defaultAccessoryIds": [
+    "acc_clip_heart_pink",
+    "acc_earrings_gold"
+   ],
+   "body": {
+    "assetPath": "assets/characters/ava/body.webp",
+    "anchorX": 0.18066,
+    "anchorY": 0.05176,
+    "width": 0.63867,
+    "height": 0.92725
+   },
+   "baseTop": {
+    "layerIndex": 41,
+    "assetPath": "assets/characters/ava/base_top.webp",
+    "anchorX": 0.37012,
+    "anchorY": 0.21777,
+    "width": 0.25977,
+    "height": 0.20801
+   },
+   "baseBottom": {
+    "layerIndex": 40,
+    "assetPath": "assets/characters/ava/base_bottom.webp",
+    "anchorX": 0.32715,
+    "anchorY": 0.40723,
+    "width": 0.3457,
+    "height": 0.16943
+   },
+   "bodyLayerIndex": 30
+  }
+ ],
+ "items": [
+  {
+   "id": "top_white_floral_tee",
+   "name": "White Floral T-Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_white_floral_tee__white.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_white_floral_tee__white.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_white_floral_tee__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_floral_tee__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/tops/top_white_floral_tee__cream.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_floral_tee__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/tops/top_white_floral_tee__sage.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_floral_tee__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2627,
+   "anchorY": 0.21826,
+   "width": 0.47461,
+   "height": 0.16553
+  },
+  {
+   "id": "top_pink_heart_tee",
+   "name": "Pink Heart T-Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_pink_heart_tee__pink.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_heart_tee__pink.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_pink_heart_tee__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_heart_tee__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_pink_heart_tee__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_heart_tee__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_pink_heart_tee__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_heart_tee__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2627,
+   "anchorY": 0.21826,
+   "width": 0.47461,
+   "height": 0.16553
+  },
+  {
+   "id": "top_lavender_hoodie",
+   "name": "Lavender Hoodie",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_lavender_hoodie__lavender.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_hoodie__lavender.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_lavender_hoodie__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_hoodie__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_lavender_hoodie__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_hoodie__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/tops/top_lavender_hoodie__sage.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_hoodie__sage.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/tops/top_lavender_hoodie__grey.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_hoodie__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.17383,
+   "width": 0.61523,
+   "height": 0.36914
+  },
+  {
+   "id": "top_yellow_puff_blouse",
+   "name": "Yellow Puff-Sleeve Blouse",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_yellow_puff_blouse__yellow.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_yellow_puff_blouse__yellow.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/tops/top_yellow_puff_blouse__yellow.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_yellow_puff_blouse__yellow.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/tops/top_yellow_puff_blouse__cream.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_yellow_puff_blouse__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_yellow_puff_blouse__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_yellow_puff_blouse__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.26562,
+   "anchorY": 0.21387,
+   "width": 0.46875,
+   "height": 0.18115
+  },
+  {
+   "id": "top_blue_puff_blouse",
+   "name": "Blue Puff-Sleeve Blouse",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_blue_puff_blouse__blue.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_puff_blouse__blue.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_blue_puff_blouse__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_puff_blouse__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_blue_puff_blouse__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_puff_blouse__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_blue_puff_blouse__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_puff_blouse__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.26562,
+   "anchorY": 0.21387,
+   "width": 0.46875,
+   "height": 0.1709
+  },
+  {
+   "id": "top_white_tied_shirt",
+   "name": "White Tied Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_white_tied_shirt__white.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_white_tied_shirt__white.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_white_tied_shirt__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_tied_shirt__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_white_tied_shirt__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_tied_shirt__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/tops/top_white_tied_shirt__sage.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_tied_shirt__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2627,
+   "anchorY": 0.21045,
+   "width": 0.47461,
+   "height": 0.22656
+  },
+  {
+   "id": "top_lavender_ruffle_crop",
+   "name": "Lavender Ruffle Crop Blouse",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_lavender_ruffle_crop__lavender.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_ruffle_crop__lavender.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_lavender_ruffle_crop__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_ruffle_crop__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_lavender_ruffle_crop__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_ruffle_crop__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_lavender_ruffle_crop__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_ruffle_crop__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/tops/top_lavender_ruffle_crop__yellow.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lavender_ruffle_crop__yellow.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.30371,
+   "anchorY": 0.27637,
+   "width": 0.39355,
+   "height": 0.11279
+  },
+  {
+   "id": "top_pink_knit_sweater",
+   "name": "Pink Knitted Sweater",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_pink_knit_sweater__pink.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_knit_sweater__pink.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_pink_knit_sweater__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_knit_sweater__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_pink_knit_sweater__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_knit_sweater__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_pink_knit_sweater__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_knit_sweater__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_pink_knit_sweater__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_knit_sweater__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/tops/top_pink_knit_sweater__cream.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_knit_sweater__cream.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.21826,
+   "width": 0.61523,
+   "height": 0.32471
+  },
+  {
+   "id": "top_cream_striped_sweater",
+   "name": "Cream Striped Sweater",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_cream_striped_sweater__cream.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_striped_sweater__cream.webp",
+   "layerIndex": 70,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/tops/top_cream_striped_sweater__cream.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_striped_sweater__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_cream_striped_sweater__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_striped_sweater__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_cream_striped_sweater__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_striped_sweater__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.21826,
+   "width": 0.61523,
+   "height": 0.32471
+  },
+  {
+   "id": "top_denim_jacket",
+   "name": "Denim Jacket Top",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_denim_jacket__denim.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_denim_jacket__denim.webp",
+   "layerIndex": 70,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "denim",
+     "name": "Denim",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/tops/top_denim_jacket__denim.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_denim_jacket__denim.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.21045,
+   "width": 0.61523,
+   "height": 0.33252
+  },
+  {
+   "id": "top_pink_hoodie",
+   "name": "Pink Hoodie",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_pink_hoodie__pink.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_hoodie__pink.webp",
+   "layerIndex": 70,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_pink_hoodie__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_hoodie__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/tops/top_pink_hoodie__rose.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_hoodie__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/tops/top_pink_hoodie__cream.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_hoodie__cream.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.17383,
+   "width": 0.61523,
+   "height": 0.36914
+  },
+  {
+   "id": "top_cream_cardigan",
+   "name": "Cream Cardigan Top",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_cream_cardigan__cream.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_cardigan__cream.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/tops/top_cream_cardigan__cream.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_cardigan__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_cream_cardigan__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_cardigan__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/tops/top_cream_cardigan__sage.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_cardigan__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.21924,
+   "width": 0.61523,
+   "height": 0.32373
+  },
+  {
+   "id": "top_blue_denim_shirt",
+   "name": "Blue Denim Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_blue_denim_shirt__denim.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_denim_shirt__denim.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "denim",
+     "name": "Denim",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/tops/top_blue_denim_shirt__denim.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_denim_shirt__denim.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2041,
+   "anchorY": 0.21045,
+   "width": 0.5918,
+   "height": 0.33154
+  },
+  {
+   "id": "top_black_graphic_tee",
+   "name": "Black Graphic T-Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_black_graphic_tee__black.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_black_graphic_tee__black.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/tops/top_black_graphic_tee__black.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_black_graphic_tee__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/tops/top_black_graphic_tee__grey.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_black_graphic_tee__grey.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_black_graphic_tee__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_black_graphic_tee__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2627,
+   "anchorY": 0.21826,
+   "width": 0.47461,
+   "height": 0.16553
+  },
+  {
+   "id": "top_pink_off_shoulder",
+   "name": "Pink Off-Shoulder Top",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_pink_off_shoulder__pink.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_off_shoulder__pink.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_pink_off_shoulder__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_off_shoulder__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_pink_off_shoulder__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_off_shoulder__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_pink_off_shoulder__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_off_shoulder__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.30371,
+   "anchorY": 0.27881,
+   "width": 0.39355,
+   "height": 0.12012
+  },
+  {
+   "id": "top_white_button_shirt",
+   "name": "White Button Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_white_button_shirt__white.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_white_button_shirt__white.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_white_button_shirt__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_button_shirt__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_white_button_shirt__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_button_shirt__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_white_button_shirt__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_white_button_shirt__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2041,
+   "anchorY": 0.21045,
+   "width": 0.5918,
+   "height": 0.33154
+  },
+  {
+   "id": "top_blue_tied_shirt",
+   "name": "Blue Tied Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_blue_tied_shirt__blue.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_tied_shirt__blue.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_blue_tied_shirt__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_tied_shirt__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_blue_tied_shirt__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_tied_shirt__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/tops/top_blue_tied_shirt__yellow.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_blue_tied_shirt__yellow.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2627,
+   "anchorY": 0.21045,
+   "width": 0.47461,
+   "height": 0.22656
+  },
+  {
+   "id": "top_yellow_floral_blouse",
+   "name": "Yellow Floral Blouse",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_yellow_floral_blouse__yellow.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_yellow_floral_blouse__yellow.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/tops/top_yellow_floral_blouse__yellow.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_yellow_floral_blouse__yellow.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_yellow_floral_blouse__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_yellow_floral_blouse__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.26562,
+   "anchorY": 0.21387,
+   "width": 0.46875,
+   "height": 0.18701
+  },
+  {
+   "id": "top_pink_varsity",
+   "name": "Pink Varsity Jacket Top",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_pink_varsity__rose.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_varsity__rose.webp",
+   "layerIndex": 70,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/tops/top_pink_varsity__rose.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_varsity__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_pink_varsity__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_varsity__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_pink_varsity__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_pink_varsity__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.21924,
+   "width": 0.61523,
+   "height": 0.32373
+  },
+  {
+   "id": "top_cream_bow_blouse",
+   "name": "Cream Bow Blouse",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_cream_bow_blouse__cream.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_bow_blouse__cream.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/tops/top_cream_bow_blouse__cream.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_bow_blouse__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/tops/top_cream_bow_blouse__white.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_bow_blouse__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_cream_bow_blouse__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_cream_bow_blouse__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.1875,
+   "anchorY": 0.21826,
+   "width": 0.625,
+   "height": 0.31787
+  },
+  {
+   "id": "top_lilac_stripe_tee",
+   "name": "Lilac Stripe T-Shirt",
+   "category": "tops",
+   "subgroup": null,
+   "assetPath": "assets/clothing/tops/top_lilac_stripe_tee__lavender.webp",
+   "thumbnailPath": "assets/clothing/tops/thumbs/top_lilac_stripe_tee__lavender.webp",
+   "layerIndex": 70,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/tops/top_lilac_stripe_tee__lavender.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lilac_stripe_tee__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/tops/top_lilac_stripe_tee__pink.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lilac_stripe_tee__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/tops/top_lilac_stripe_tee__blue.webp",
+     "thumbnailPath": "assets/clothing/tops/thumbs/top_lilac_stripe_tee__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2627,
+   "anchorY": 0.21826,
+   "width": 0.47461,
+   "height": 0.16553
+  },
+  {
+   "id": "bottom_blue_wide_jeans",
+   "name": "Blue Wide-Leg Jeans",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_blue_wide_jeans__light_blue.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_wide_jeans__light_blue.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "light_blue",
+     "name": "Light Blue",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_wide_jeans__light_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_wide_jeans__light_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "dark_blue",
+     "name": "Dark Blue",
+     "swatch": "#5A7CA8",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_wide_jeans__dark_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_wide_jeans__dark_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_wide_jeans__black.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_wide_jeans__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#A5A5AD",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_wide_jeans__grey.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_wide_jeans__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2334,
+   "anchorY": 0.40088,
+   "width": 0.53418,
+   "height": 0.54443
+  },
+  {
+   "id": "bottom_white_cargo",
+   "name": "White Cargo Pants",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_white_cargo__white.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_white_cargo__white.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_white_cargo__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_white_cargo__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/bottoms/bottom_white_cargo__cream.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_white_cargo__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/bottoms/bottom_white_cargo__lavender.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_white_cargo__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.25684,
+   "anchorY": 0.40088,
+   "width": 0.4873,
+   "height": 0.5415
+  },
+  {
+   "id": "bottom_pink_cargo",
+   "name": "Pink Cargo Pants",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_pink_cargo__pink.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_cargo__pink.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_cargo__pink.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_cargo__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_cargo__sage.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_cargo__sage.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_cargo__lavender.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_cargo__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.25684,
+   "anchorY": 0.40088,
+   "width": 0.4873,
+   "height": 0.5415
+  },
+  {
+   "id": "bottom_denim_shorts",
+   "name": "Denim Shorts",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_denim_shorts__light_blue.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_denim_shorts__light_blue.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "light_blue",
+     "name": "Light Blue",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/bottoms/bottom_denim_shorts__light_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_denim_shorts__light_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "dark_blue",
+     "name": "Dark Blue",
+     "swatch": "#5A7CA8",
+     "assetPath": "assets/clothing/bottoms/bottom_denim_shorts__dark_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_denim_shorts__dark_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_denim_shorts__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_denim_shorts__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.31641,
+   "anchorY": 0.40088,
+   "width": 0.36816,
+   "height": 0.19434
+  },
+  {
+   "id": "bottom_beige_pleated_skirt",
+   "name": "Beige Pleated Skirt",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_beige_pleated_skirt__beige.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_pleated_skirt__beige.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/bottoms/bottom_beige_pleated_skirt__beige.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_pleated_skirt__beige.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/bottoms/bottom_beige_pleated_skirt__pink.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_pleated_skirt__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/bottoms/bottom_beige_pleated_skirt__sage.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_pleated_skirt__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.26074,
+   "anchorY": 0.40088,
+   "width": 0.47852,
+   "height": 0.27637
+  },
+  {
+   "id": "bottom_black_wide_jeans",
+   "name": "Black Wide-Leg Jeans",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_black_wide_jeans__black.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_black_wide_jeans__black.webp",
+   "layerIndex": 60,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/bottoms/bottom_black_wide_jeans__black.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_black_wide_jeans__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/bottoms/bottom_black_wide_jeans__grey.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_black_wide_jeans__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2334,
+   "anchorY": 0.40088,
+   "width": 0.53418,
+   "height": 0.54443
+  },
+  {
+   "id": "bottom_cream_trousers",
+   "name": "Cream Trousers",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_cream_trousers__cream.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_cream_trousers__cream.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/bottoms/bottom_cream_trousers__cream.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_cream_trousers__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/bottoms/bottom_cream_trousers__beige.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_cream_trousers__beige.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_cream_trousers__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_cream_trousers__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.28809,
+   "anchorY": 0.40088,
+   "width": 0.4248,
+   "height": 0.53955
+  },
+  {
+   "id": "bottom_blue_denim_skirt",
+   "name": "Blue Denim Skirt",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_blue_denim_skirt__light_blue.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_denim_skirt__light_blue.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "light_blue",
+     "name": "Light Blue",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_denim_skirt__light_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_denim_skirt__light_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "dark_blue",
+     "name": "Dark Blue",
+     "swatch": "#5A7CA8",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_denim_skirt__dark_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_denim_skirt__dark_blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.20605,
+   "anchorY": 0.40088,
+   "width": 0.58691,
+   "height": 0.34961
+  },
+  {
+   "id": "bottom_pink_plaid_skirt",
+   "name": "Pink Plaid Skirt",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_pink_plaid_skirt__white.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_plaid_skirt__white.webp",
+   "layerIndex": 60,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_plaid_skirt__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_plaid_skirt__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_plaid_skirt__pink.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_plaid_skirt__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.26855,
+   "anchorY": 0.40088,
+   "width": 0.46387,
+   "height": 0.22754
+  },
+  {
+   "id": "bottom_black_cargo",
+   "name": "Black Cargo Pants",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_black_cargo__black.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_black_cargo__black.webp",
+   "layerIndex": 60,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/bottoms/bottom_black_cargo__black.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_black_cargo__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/bottoms/bottom_black_cargo__grey.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_black_cargo__grey.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/bottoms/bottom_black_cargo__sage.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_black_cargo__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.30371,
+   "anchorY": 0.40088,
+   "width": 0.39355,
+   "height": 0.52002
+  },
+  {
+   "id": "bottom_lavender_trousers",
+   "name": "Lavender Trousers",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_lavender_trousers__lavender.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_lavender_trousers__lavender.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/bottoms/bottom_lavender_trousers__lavender.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_lavender_trousers__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/bottoms/bottom_lavender_trousers__pink.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_lavender_trousers__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/bottoms/bottom_lavender_trousers__blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_lavender_trousers__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.28809,
+   "anchorY": 0.40088,
+   "width": 0.4248,
+   "height": 0.53955
+  },
+  {
+   "id": "bottom_beige_shorts",
+   "name": "Beige Shorts",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_beige_shorts__beige.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_shorts__beige.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/bottoms/bottom_beige_shorts__beige.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_shorts__beige.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/bottoms/bottom_beige_shorts__cream.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_shorts__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/bottoms/bottom_beige_shorts__sage.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_beige_shorts__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32031,
+   "anchorY": 0.40088,
+   "width": 0.35938,
+   "height": 0.2002
+  },
+  {
+   "id": "bottom_white_wide_jeans",
+   "name": "White Wide-Leg Jeans",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_white_wide_jeans__white.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_white_wide_jeans__white.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_white_wide_jeans__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_white_wide_jeans__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/bottoms/bottom_white_wide_jeans__cream.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_white_wide_jeans__cream.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2334,
+   "anchorY": 0.40088,
+   "width": 0.53418,
+   "height": 0.54443
+  },
+  {
+   "id": "bottom_pink_mini_skirt",
+   "name": "Pink Mini Skirt",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_pink_mini_skirt__pink.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_mini_skirt__pink.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_mini_skirt__pink.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_mini_skirt__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_mini_skirt__lavender.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_mini_skirt__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_pink_mini_skirt__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_pink_mini_skirt__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.28613,
+   "anchorY": 0.40088,
+   "width": 0.42871,
+   "height": 0.20312
+  },
+  {
+   "id": "bottom_blue_straight_jeans",
+   "name": "Blue Straight Jeans",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_blue_straight_jeans__light_blue.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_straight_jeans__light_blue.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "light_blue",
+     "name": "Light Blue",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_straight_jeans__light_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_straight_jeans__light_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "dark_blue",
+     "name": "Dark Blue",
+     "swatch": "#5A7CA8",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_straight_jeans__dark_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_straight_jeans__dark_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_straight_jeans__black.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_straight_jeans__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#A5A5AD",
+     "assetPath": "assets/clothing/bottoms/bottom_blue_straight_jeans__grey.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_blue_straight_jeans__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.31738,
+   "anchorY": 0.40088,
+   "width": 0.36523,
+   "height": 0.52979
+  },
+  {
+   "id": "bottom_grey_joggers",
+   "name": "Grey Joggers",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_grey_joggers__grey.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_grey_joggers__grey.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/bottoms/bottom_grey_joggers__grey.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_grey_joggers__grey.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/bottoms/bottom_grey_joggers__pink.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_grey_joggers__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/bottoms/bottom_grey_joggers__lavender.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_grey_joggers__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.31738,
+   "anchorY": 0.40088,
+   "width": 0.36523,
+   "height": 0.52002
+  },
+  {
+   "id": "bottom_floral_skirt",
+   "name": "Floral Skirt",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_floral_skirt__cream.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_floral_skirt__cream.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/bottoms/bottom_floral_skirt__cream.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_floral_skirt__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_floral_skirt__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_floral_skirt__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/bottoms/bottom_floral_skirt__blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_floral_skirt__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19336,
+   "anchorY": 0.40088,
+   "width": 0.61328,
+   "height": 0.37402
+  },
+  {
+   "id": "bottom_cream_cargo",
+   "name": "Cream Cargo Trousers",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_cream_cargo__cream.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_cream_cargo__cream.webp",
+   "layerIndex": 60,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/bottoms/bottom_cream_cargo__cream.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_cream_cargo__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/bottoms/bottom_cream_cargo__beige.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_cream_cargo__beige.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.25684,
+   "anchorY": 0.40088,
+   "width": 0.4873,
+   "height": 0.5415
+  },
+  {
+   "id": "bottom_embroidered_shorts",
+   "name": "Embroidered Denim Shorts",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_embroidered_shorts__light_blue.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_embroidered_shorts__light_blue.webp",
+   "layerIndex": 60,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "light_blue",
+     "name": "Light Blue",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/bottoms/bottom_embroidered_shorts__light_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_embroidered_shorts__light_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "dark_blue",
+     "name": "Dark Blue",
+     "swatch": "#5A7CA8",
+     "assetPath": "assets/clothing/bottoms/bottom_embroidered_shorts__dark_blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_embroidered_shorts__dark_blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32031,
+   "anchorY": 0.40088,
+   "width": 0.35938,
+   "height": 0.18555
+  },
+  {
+   "id": "bottom_tennis_skirt",
+   "name": "Pleated Tennis Skirt",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_tennis_skirt__white.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_tennis_skirt__white.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/bottoms/bottom_tennis_skirt__white.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_tennis_skirt__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/bottoms/bottom_tennis_skirt__pink.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_tennis_skirt__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/bottoms/bottom_tennis_skirt__blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_tennis_skirt__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.27637,
+   "anchorY": 0.40088,
+   "width": 0.44824,
+   "height": 0.1958
+  },
+  {
+   "id": "bottom_lilac_wide_cargo",
+   "name": "Lilac Wide Cargo Pants",
+   "category": "bottoms",
+   "subgroup": null,
+   "assetPath": "assets/clothing/bottoms/bottom_lilac_wide_cargo__lavender.webp",
+   "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_lilac_wide_cargo__lavender.webp",
+   "layerIndex": 60,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/bottoms/bottom_lilac_wide_cargo__lavender.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_lilac_wide_cargo__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/bottoms/bottom_lilac_wide_cargo__blue.webp",
+     "thumbnailPath": "assets/clothing/bottoms/thumbs/bottom_lilac_wide_cargo__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.23926,
+   "anchorY": 0.40088,
+   "width": 0.52246,
+   "height": 0.5415
+  },
+  {
+   "id": "dress_pink_summer",
+   "name": "Pink Summer Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_pink_summer__pink.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_summer__pink.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_pink_summer__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_summer__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/dresses/dress_pink_summer__yellow.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_summer__yellow.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/dresses/dress_pink_summer__blue.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_summer__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.21191,
+   "anchorY": 0.2168,
+   "width": 0.5752,
+   "height": 0.49365
+  },
+  {
+   "id": "dress_floral_cottagecore",
+   "name": "Floral Cottagecore Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_floral_cottagecore__cream.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_floral_cottagecore__cream.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/dresses/dress_floral_cottagecore__cream.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_floral_cottagecore__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/dresses/dress_floral_cottagecore__white.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_floral_cottagecore__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.16699,
+   "anchorY": 0.21387,
+   "width": 0.66699,
+   "height": 0.61182
+  },
+  {
+   "id": "dress_lavender_party",
+   "name": "Lavender Party Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_lavender_party__lavender.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_lavender_party__lavender.webp",
+   "layerIndex": 80,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/dresses/dress_lavender_party__lavender.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_lavender_party__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_lavender_party__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_lavender_party__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.20215,
+   "anchorY": 0.2168,
+   "width": 0.59473,
+   "height": 0.46436
+  },
+  {
+   "id": "dress_blue_denim",
+   "name": "Blue Denim Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_blue_denim__denim.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_blue_denim__denim.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "denim",
+     "name": "Denim",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/dresses/dress_blue_denim__denim.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_blue_denim__denim.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.24121,
+   "anchorY": 0.21045,
+   "width": 0.51758,
+   "height": 0.49023
+  },
+  {
+   "id": "dress_yellow_floral",
+   "name": "Yellow Floral Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_yellow_floral__yellow.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_yellow_floral__yellow.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/dresses/dress_yellow_floral__yellow.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_yellow_floral__yellow.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/dresses/dress_yellow_floral__cream.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_yellow_floral__cream.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.20215,
+   "anchorY": 0.2168,
+   "width": 0.59473,
+   "height": 0.51318
+  },
+  {
+   "id": "dress_white_lace",
+   "name": "White Lace Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_white_lace__white.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_lace__white.webp",
+   "layerIndex": 80,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/dresses/dress_white_lace__white.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_lace__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/dresses/dress_white_lace__cream.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_lace__cream.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19824,
+   "anchorY": 0.22314,
+   "width": 0.60449,
+   "height": 0.53418
+  },
+  {
+   "id": "dress_pink_princess",
+   "name": "Pink Princess Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_pink_princess__pink.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_princess__pink.webp",
+   "layerIndex": 80,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_pink_princess__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_princess__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/dresses/dress_pink_princess__lavender.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_princess__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/dresses/dress_pink_princess__blue.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_princess__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.0791,
+   "anchorY": 0.21387,
+   "width": 0.84277,
+   "height": 0.7583
+  },
+  {
+   "id": "dress_red_evening",
+   "name": "Red Evening Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_red_evening__red.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_red_evening__red.webp",
+   "layerIndex": 80,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "red",
+     "name": "Red",
+     "swatch": "#D9555F",
+     "assetPath": "assets/clothing/dresses/dress_red_evening__red.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_red_evening__red.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/dresses/dress_red_evening__black.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_red_evening__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "purple",
+     "name": "Purple",
+     "swatch": "#A98BD3",
+     "assetPath": "assets/clothing/dresses/dress_red_evening__purple.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_red_evening__purple.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.23145,
+   "anchorY": 0.2168,
+   "width": 0.53809,
+   "height": 0.74756
+  },
+  {
+   "id": "dress_purple_casual",
+   "name": "Purple Casual Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_purple_casual__purple.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_purple_casual__purple.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "purple",
+     "name": "Purple",
+     "swatch": "#A98BD3",
+     "assetPath": "assets/clothing/dresses/dress_purple_casual__purple.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_purple_casual__purple.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/dresses/dress_purple_casual__sage.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_purple_casual__sage.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/dresses/dress_purple_casual__grey.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_purple_casual__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.2627,
+   "anchorY": 0.21826,
+   "width": 0.47461,
+   "height": 0.44336
+  },
+  {
+   "id": "dress_green_garden",
+   "name": "Green Garden Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_green_garden__green.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_green_garden__green.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "green",
+     "name": "Green",
+     "swatch": "#A9C89C",
+     "assetPath": "assets/clothing/dresses/dress_green_garden__green.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_green_garden__green.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/dresses/dress_green_garden__sage.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_green_garden__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.21387,
+   "width": 0.61523,
+   "height": 0.56494
+  },
+  {
+   "id": "dress_white_puff",
+   "name": "White Puff-Sleeve Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_white_puff__white.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_puff__white.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/dresses/dress_white_puff__white.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_puff__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_white_puff__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_puff__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.21191,
+   "anchorY": 0.21387,
+   "width": 0.57617,
+   "height": 0.50635
+  },
+  {
+   "id": "dress_pink_bow",
+   "name": "Pink Bow Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_pink_bow__pink.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_bow__pink.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_pink_bow__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_bow__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/dresses/dress_pink_bow__white.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_bow__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/dresses/dress_pink_bow__lavender.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_bow__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.21289,
+   "anchorY": 0.2168,
+   "width": 0.5752,
+   "height": 0.48389
+  },
+  {
+   "id": "dress_blue_floral",
+   "name": "Blue Floral Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_blue_floral__blue.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_blue_floral__blue.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/dresses/dress_blue_floral__blue.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_blue_floral__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/dresses/dress_blue_floral__lavender.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_blue_floral__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.21924,
+   "width": 0.61523,
+   "height": 0.55957
+  },
+  {
+   "id": "dress_black_party",
+   "name": "Black Party Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_black_party__black.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_black_party__black.webp",
+   "layerIndex": 80,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/dresses/dress_black_party__black.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_black_party__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "red",
+     "name": "Red",
+     "swatch": "#D9555F",
+     "assetPath": "assets/clothing/dresses/dress_black_party__red.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_black_party__red.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.25098,
+   "anchorY": 0.2168,
+   "width": 0.49805,
+   "height": 0.43506
+  },
+  {
+   "id": "dress_cream_vintage",
+   "name": "Cream Vintage Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_cream_vintage__cream.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_cream_vintage__cream.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/dresses/dress_cream_vintage__cream.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_cream_vintage__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/dresses/dress_cream_vintage__beige.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_cream_vintage__beige.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.17285,
+   "anchorY": 0.21045,
+   "width": 0.65527,
+   "height": 0.66602
+  },
+  {
+   "id": "dress_lavender_ruffle",
+   "name": "Lavender Ruffle Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_lavender_ruffle__lavender.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_lavender_ruffle__lavender.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/dresses/dress_lavender_ruffle__lavender.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_lavender_ruffle__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_lavender_ruffle__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_lavender_ruffle__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.18359,
+   "anchorY": 0.27734,
+   "width": 0.63281,
+   "height": 0.47217
+  },
+  {
+   "id": "dress_yellow_sun",
+   "name": "Yellow Sundress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_yellow_sun__yellow.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_yellow_sun__yellow.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/dresses/dress_yellow_sun__yellow.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_yellow_sun__yellow.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/dresses/dress_yellow_sun__white.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_yellow_sun__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_yellow_sun__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_yellow_sun__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.18359,
+   "anchorY": 0.2168,
+   "width": 0.63281,
+   "height": 0.53271
+  },
+  {
+   "id": "dress_rose_print",
+   "name": "Rose-Print Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_rose_print__cream.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_rose_print__cream.webp",
+   "layerIndex": 80,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/dresses/dress_rose_print__cream.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_rose_print__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_rose_print__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_rose_print__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.17285,
+   "anchorY": 0.22021,
+   "width": 0.6543,
+   "height": 0.58789
+  },
+  {
+   "id": "dress_white_summer",
+   "name": "White Summer Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_white_summer__white.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_summer__white.webp",
+   "layerIndex": 80,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/dresses/dress_white_summer__white.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_summer__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/dresses/dress_white_summer__sage.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_white_summer__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.22168,
+   "anchorY": 0.2168,
+   "width": 0.55566,
+   "height": 0.49365
+  },
+  {
+   "id": "dress_pink_layered",
+   "name": "Pink Layered Dress",
+   "category": "dresses",
+   "subgroup": null,
+   "assetPath": "assets/clothing/dresses/dress_pink_layered__pink.webp",
+   "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_layered__pink.webp",
+   "layerIndex": 80,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/dresses/dress_pink_layered__pink.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_layered__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/dresses/dress_pink_layered__lavender.webp",
+     "thumbnailPath": "assets/clothing/dresses/thumbs/dress_pink_layered__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.12402,
+   "anchorY": 0.2168,
+   "width": 0.75195,
+   "height": 0.63037
+  },
+  {
+   "id": "jacket_blue_denim",
+   "name": "Blue Denim Jacket",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_blue_denim__light_blue.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_blue_denim__light_blue.webp",
+   "layerIndex": 90,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "light_blue",
+     "name": "Light Blue",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/jackets/jacket_blue_denim__light_blue.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_blue_denim__light_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "dark_blue",
+     "name": "Dark Blue",
+     "swatch": "#5A7CA8",
+     "assetPath": "assets/clothing/jackets/jacket_blue_denim__dark_blue.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_blue_denim__dark_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/jackets/jacket_blue_denim__black.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_blue_denim__black.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2085,
+   "width": 0.61523,
+   "height": 0.33447
+  },
+  {
+   "id": "jacket_pink_varsity",
+   "name": "Pink Varsity Jacket",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_pink_varsity__rose.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_varsity__rose.webp",
+   "layerIndex": 90,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/jackets/jacket_pink_varsity__rose.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_varsity__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/jackets/jacket_pink_varsity__blue.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_varsity__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/jackets/jacket_pink_varsity__lavender.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_varsity__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2124,
+   "width": 0.61523,
+   "height": 0.33057
+  },
+  {
+   "id": "jacket_cream_cardigan",
+   "name": "Cream Cardigan",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_cream_cardigan__cream.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cream_cardigan__cream.webp",
+   "layerIndex": 90,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/jackets/jacket_cream_cardigan__cream.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cream_cardigan__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/jackets/jacket_cream_cardigan__pink.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cream_cardigan__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/jackets/jacket_cream_cardigan__sage.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cream_cardigan__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2124,
+   "width": 0.61523,
+   "height": 0.33057
+  },
+  {
+   "id": "jacket_lavender_cardigan",
+   "name": "Lavender Cardigan",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_lavender_cardigan__lavender.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_lavender_cardigan__lavender.webp",
+   "layerIndex": 90,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/jackets/jacket_lavender_cardigan__lavender.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_lavender_cardigan__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/jackets/jacket_lavender_cardigan__blue.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_lavender_cardigan__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2124,
+   "width": 0.61523,
+   "height": 0.33057
+  },
+  {
+   "id": "jacket_pink_bomber",
+   "name": "Pink Bomber Jacket",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_pink_bomber__pink.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_bomber__pink.webp",
+   "layerIndex": 90,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/jackets/jacket_pink_bomber__pink.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_bomber__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/jackets/jacket_pink_bomber__sage.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_bomber__sage.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/jackets/jacket_pink_bomber__black.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_pink_bomber__black.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2085,
+   "width": 0.61523,
+   "height": 0.33447
+  },
+  {
+   "id": "jacket_blue_oversized",
+   "name": "Blue Oversized Jacket",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_blue_oversized__blue.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_blue_oversized__blue.webp",
+   "layerIndex": 90,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/jackets/jacket_blue_oversized__blue.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_blue_oversized__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/jackets/jacket_blue_oversized__grey.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_blue_oversized__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2085,
+   "width": 0.61523,
+   "height": 0.33447
+  },
+  {
+   "id": "jacket_white_blazer",
+   "name": "White Blazer",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_white_blazer__white.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_white_blazer__white.webp",
+   "layerIndex": 90,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/jackets/jacket_white_blazer__white.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_white_blazer__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/jackets/jacket_white_blazer__black.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_white_blazer__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/jackets/jacket_white_blazer__beige.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_white_blazer__beige.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2124,
+   "width": 0.61523,
+   "height": 0.33057
+  },
+  {
+   "id": "jacket_brown_leather",
+   "name": "Brown Leather-Style Jacket",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_brown_leather__brown.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_brown_leather__brown.webp",
+   "layerIndex": 90,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "brown",
+     "name": "Brown",
+     "swatch": "#9B6B4A",
+     "assetPath": "assets/clothing/jackets/jacket_brown_leather__brown.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_brown_leather__brown.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/jackets/jacket_brown_leather__black.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_brown_leather__black.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2085,
+   "width": 0.61523,
+   "height": 0.33447
+  },
+  {
+   "id": "jacket_cropped_denim",
+   "name": "Cropped Denim Jacket",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_cropped_denim__light_blue.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cropped_denim__light_blue.webp",
+   "layerIndex": 90,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "light_blue",
+     "name": "Light Blue",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/jackets/jacket_cropped_denim__light_blue.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cropped_denim__light_blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "dark_blue",
+     "name": "Dark Blue",
+     "swatch": "#5A7CA8",
+     "assetPath": "assets/clothing/jackets/jacket_cropped_denim__dark_blue.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cropped_denim__dark_blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2085,
+   "width": 0.61523,
+   "height": 0.33447
+  },
+  {
+   "id": "jacket_cream_knit",
+   "name": "Cream Knitted Cardigan",
+   "category": "jackets",
+   "subgroup": null,
+   "assetPath": "assets/clothing/jackets/jacket_cream_knit__cream.webp",
+   "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cream_knit__cream.webp",
+   "layerIndex": 90,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/jackets/jacket_cream_knit__cream.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cream_knit__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/jackets/jacket_cream_knit__grey.webp",
+     "thumbnailPath": "assets/clothing/jackets/thumbs/jacket_cream_knit__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.19238,
+   "anchorY": 0.2124,
+   "width": 0.61523,
+   "height": 0.33057
+  },
+  {
+   "id": "shoes_white_sneakers",
+   "name": "White Sneakers",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_white_sneakers__white.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_sneakers__white.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/shoes/shoes_white_sneakers__white.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_sneakers__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/shoes/shoes_white_sneakers__cream.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_sneakers__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "grey",
+     "name": "Grey",
+     "swatch": "#B9B7BD",
+     "assetPath": "assets/clothing/shoes/shoes_white_sneakers__grey.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_sneakers__grey.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32715,
+   "anchorY": 0.90088,
+   "width": 0.3457,
+   "height": 0.09131
+  },
+  {
+   "id": "shoes_pink_sneakers",
+   "name": "Pink Sneakers",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_pink_sneakers__pink.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_sneakers__pink.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/shoes/shoes_pink_sneakers__pink.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_sneakers__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/shoes/shoes_pink_sneakers__lavender.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_sneakers__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/shoes/shoes_pink_sneakers__blue.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_sneakers__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32715,
+   "anchorY": 0.90088,
+   "width": 0.3457,
+   "height": 0.09131
+  },
+  {
+   "id": "shoes_white_boots",
+   "name": "White Boots",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_white_boots__white.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_boots__white.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/shoes/shoes_white_boots__white.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_boots__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/shoes/shoes_white_boots__cream.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_boots__cream.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32129,
+   "anchorY": 0.79395,
+   "width": 0.35742,
+   "height": 0.19824
+  },
+  {
+   "id": "shoes_brown_boots",
+   "name": "Brown Boots",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_brown_boots__brown.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_brown_boots__brown.webp",
+   "layerIndex": 50,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "brown",
+     "name": "Brown",
+     "swatch": "#9B6B4A",
+     "assetPath": "assets/clothing/shoes/shoes_brown_boots__brown.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_brown_boots__brown.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/shoes/shoes_brown_boots__black.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_brown_boots__black.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32129,
+   "anchorY": 0.79395,
+   "width": 0.35742,
+   "height": 0.19824
+  },
+  {
+   "id": "shoes_pink_sandals",
+   "name": "Pink Sandals",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_pink_sandals__pink.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_sandals__pink.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/shoes/shoes_pink_sandals__pink.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_sandals__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/shoes/shoes_pink_sandals__rose.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_sandals__rose.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.33105,
+   "anchorY": 0.90527,
+   "width": 0.33789,
+   "height": 0.08252
+  },
+  {
+   "id": "shoes_white_sandals",
+   "name": "White Sandals",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_white_sandals__white.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_sandals__white.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/shoes/shoes_white_sandals__white.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_sandals__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/shoes/shoes_white_sandals__gold.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_white_sandals__gold.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.33105,
+   "anchorY": 0.90527,
+   "width": 0.33789,
+   "height": 0.08252
+  },
+  {
+   "id": "shoes_ballet_flats",
+   "name": "Ballet Flats",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_ballet_flats__pink.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_ballet_flats__pink.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/shoes/shoes_ballet_flats__pink.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_ballet_flats__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/shoes/shoes_ballet_flats__cream.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_ballet_flats__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/shoes/shoes_ballet_flats__black.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_ballet_flats__black.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.33984,
+   "anchorY": 0.94043,
+   "width": 0.32031,
+   "height": 0.04248
+  },
+  {
+   "id": "shoes_black",
+   "name": "Black Shoes",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_black__black.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_black__black.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/shoes/shoes_black__black.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_black__black.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "brown",
+     "name": "Brown",
+     "swatch": "#9B6B4A",
+     "assetPath": "assets/clothing/shoes/shoes_black__brown.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_black__brown.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32715,
+   "anchorY": 0.92432,
+   "width": 0.3457,
+   "height": 0.06396
+  },
+  {
+   "id": "shoes_pink_heels",
+   "name": "Pink Heels",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_pink_heels__pink.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_heels__pink.webp",
+   "layerIndex": 50,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/shoes/shoes_pink_heels__pink.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_heels__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "red",
+     "name": "Red",
+     "swatch": "#D9555F",
+     "assetPath": "assets/clothing/shoes/shoes_pink_heels__red.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_heels__red.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/shoes/shoes_pink_heels__cream.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_pink_heels__cream.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.34668,
+   "anchorY": 0.92725,
+   "width": 0.30762,
+   "height": 0.07275
+  },
+  {
+   "id": "shoes_canvas",
+   "name": "Casual Canvas Shoes",
+   "category": "shoes",
+   "subgroup": null,
+   "assetPath": "assets/clothing/shoes/shoes_canvas__blue.webp",
+   "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_canvas__blue.webp",
+   "layerIndex": 50,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/shoes/shoes_canvas__blue.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_canvas__blue.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/shoes/shoes_canvas__sage.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_canvas__sage.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/shoes/shoes_canvas__yellow.webp",
+     "thumbnailPath": "assets/clothing/shoes/thumbs/shoes_canvas__yellow.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.32715,
+   "anchorY": 0.90088,
+   "width": 0.3457,
+   "height": 0.09131
+  },
+  {
+   "id": "acc_bag_pink_shoulder",
+   "name": "Pink Shoulder Bag",
+   "category": "accessories",
+   "subgroup": "bags",
+   "assetPath": "assets/clothing/accessories/acc_bag_pink_shoulder__pink.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_pink_shoulder__pink.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_bag_pink_shoulder__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_pink_shoulder__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_bag_pink_shoulder__rose.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_pink_shoulder__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_bag_pink_shoulder__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_pink_shoulder__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_bag_beige_handbag",
+    "acc_bag_white_backpack",
+    "acc_bag_lavender_purse",
+    "acc_bag_floral_handbag"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.56543,
+   "anchorY": 0.22656,
+   "width": 0.16797,
+   "height": 0.31982
+  },
+  {
+   "id": "acc_bag_beige_handbag",
+   "name": "Beige Handbag",
+   "category": "accessories",
+   "subgroup": "bags",
+   "assetPath": "assets/clothing/accessories/acc_bag_beige_handbag__beige.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_beige_handbag__beige.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/accessories/acc_bag_beige_handbag__beige.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_beige_handbag__beige.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_bag_beige_handbag__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_beige_handbag__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "brown",
+     "name": "Brown",
+     "swatch": "#9B6B4A",
+     "assetPath": "assets/clothing/accessories/acc_bag_beige_handbag__brown.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_beige_handbag__brown.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_bag_pink_shoulder",
+    "acc_bag_white_backpack",
+    "acc_bag_lavender_purse",
+    "acc_bag_floral_handbag"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.67676,
+   "anchorY": 0.59766,
+   "width": 0.19824,
+   "height": 0.11328
+  },
+  {
+   "id": "acc_bag_white_backpack",
+   "name": "White Backpack",
+   "category": "accessories",
+   "subgroup": "bags",
+   "assetPath": "assets/clothing/accessories/acc_bag_white_backpack__white.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_white_backpack__white.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_bag_white_backpack__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_white_backpack__white.webp",
+     "extraAssetPaths": [
+      "assets/clothing/accessories/acc_bag_white_backpack__white__back.webp"
+     ]
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_bag_white_backpack__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_white_backpack__pink.webp",
+     "extraAssetPaths": [
+      "assets/clothing/accessories/acc_bag_white_backpack__pink__back.webp"
+     ]
+    }
+   ],
+   "conflictsWith": [
+    "dress_pink_princess",
+    "dress_red_evening",
+    "acc_bag_pink_shoulder",
+    "acc_bag_beige_handbag",
+    "acc_bag_lavender_purse",
+    "acc_bag_floral_handbag"
+   ],
+   "extraLayers": [
+    {
+     "layerIndex": 10,
+     "anchorX": 0.29688,
+     "anchorY": 0.24707,
+     "width": 0.40625,
+     "height": 0.24121
+    }
+   ],
+   "anchorX": 0.35254,
+   "anchorY": 0.22217,
+   "width": 0.29492,
+   "height": 0.17139
+  },
+  {
+   "id": "acc_bag_lavender_purse",
+   "name": "Lavender Purse",
+   "category": "accessories",
+   "subgroup": "bags",
+   "assetPath": "assets/clothing/accessories/acc_bag_lavender_purse__lavender.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_lavender_purse__lavender.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_bag_lavender_purse__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_lavender_purse__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_bag_lavender_purse__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_lavender_purse__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_bag_pink_shoulder",
+    "acc_bag_beige_handbag",
+    "acc_bag_white_backpack",
+    "acc_bag_floral_handbag"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.40918,
+   "anchorY": 0.22656,
+   "width": 0.3125,
+   "height": 0.29395
+  },
+  {
+   "id": "acc_bag_floral_handbag",
+   "name": "Floral Handbag",
+   "category": "accessories",
+   "subgroup": "bags",
+   "assetPath": "assets/clothing/accessories/acc_bag_floral_handbag__cream.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_floral_handbag__cream.webp",
+   "layerIndex": 110,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/accessories/acc_bag_floral_handbag__cream.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_floral_handbag__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_bag_floral_handbag__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bag_floral_handbag__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_bag_pink_shoulder",
+    "acc_bag_beige_handbag",
+    "acc_bag_white_backpack",
+    "acc_bag_lavender_purse"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.67676,
+   "anchorY": 0.59766,
+   "width": 0.19824,
+   "height": 0.11328
+  },
+  {
+   "id": "acc_earrings_small",
+   "name": "Small Stud Earrings",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_earrings_small__gold.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_small__gold.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/accessories/acc_earrings_small__gold.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_small__gold.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "silver",
+     "name": "Silver",
+     "swatch": "#CFD3DA",
+     "assetPath": "assets/clothing/accessories/acc_earrings_small__silver.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_small__silver.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_earrings_hoops",
+    "acc_earrings_gold",
+    "acc_earrings_drops"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.40527,
+   "anchorY": 0.14209,
+   "width": 0.19043,
+   "height": 0.0127
+  },
+  {
+   "id": "acc_earrings_hoops",
+   "name": "Hoop Earrings",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_earrings_hoops__gold.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_hoops__gold.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/accessories/acc_earrings_hoops__gold.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_hoops__gold.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "silver",
+     "name": "Silver",
+     "swatch": "#CFD3DA",
+     "assetPath": "assets/clothing/accessories/acc_earrings_hoops__silver.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_hoops__silver.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_earrings_small",
+    "acc_earrings_gold",
+    "acc_earrings_drops"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.39355,
+   "anchorY": 0.14307,
+   "width": 0.21289,
+   "height": 0.02441
+  },
+  {
+   "id": "acc_earrings_gold",
+   "name": "Big Gold Hoops",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_earrings_gold__gold.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_gold__gold.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/accessories/acc_earrings_gold__gold.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_gold__gold.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_earrings_small",
+    "acc_earrings_hoops",
+    "acc_earrings_drops"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.38574,
+   "anchorY": 0.13916,
+   "width": 0.22852,
+   "height": 0.03223
+  },
+  {
+   "id": "acc_earrings_drops",
+   "name": "Pink Drop Earrings",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_earrings_drops__pink.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_drops__pink.webp",
+   "layerIndex": 130,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_earrings_drops__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_drops__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/accessories/acc_earrings_drops__blue.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_earrings_drops__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_earrings_small",
+    "acc_earrings_hoops",
+    "acc_earrings_gold"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.40234,
+   "anchorY": 0.14453,
+   "width": 0.19629,
+   "height": 0.0293
+  },
+  {
+   "id": "acc_necklace_heart",
+   "name": "Heart Necklace",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_necklace_heart__default.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_necklace_heart__default.webp",
+   "layerIndex": 100,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "default",
+     "name": "Original",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_necklace_heart__default.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_necklace_heart__default.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_necklace_layered",
+    "acc_necklace_pearl"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.44629,
+   "anchorY": 0.21045,
+   "width": 0.1084,
+   "height": 0.06396
+  },
+  {
+   "id": "acc_necklace_layered",
+   "name": "Layered Star Necklace",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_necklace_layered__default.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_necklace_layered__default.webp",
+   "layerIndex": 100,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "default",
+     "name": "Original",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_necklace_layered__default.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_necklace_layered__default.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_necklace_heart",
+    "acc_necklace_pearl"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.44531,
+   "anchorY": 0.20947,
+   "width": 0.11035,
+   "height": 0.07129
+  },
+  {
+   "id": "acc_necklace_pearl",
+   "name": "Pearl Necklace",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_necklace_pearl__default.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_necklace_pearl__default.webp",
+   "layerIndex": 100,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "default",
+     "name": "Original",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_necklace_pearl__default.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_necklace_pearl__default.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_necklace_heart",
+    "acc_necklace_layered"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.43457,
+   "anchorY": 0.20752,
+   "width": 0.13086,
+   "height": 0.04883
+  },
+  {
+   "id": "acc_bracelet_bangle",
+   "name": "Gold Bangles",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_bracelet_bangle__gold.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bracelet_bangle__gold.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/accessories/acc_bracelet_bangle__gold.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bracelet_bangle__gold.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "silver",
+     "name": "Silver",
+     "swatch": "#CFD3DA",
+     "assetPath": "assets/clothing/accessories/acc_bracelet_bangle__silver.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bracelet_bangle__silver.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_bracelet_beads"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.21387,
+   "anchorY": 0.5127,
+   "width": 0.07324,
+   "height": 0.02881
+  },
+  {
+   "id": "acc_bracelet_beads",
+   "name": "Bead Bracelet",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_bracelet_beads__pink.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bracelet_beads__pink.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_bracelet_beads__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bracelet_beads__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_bracelet_beads__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bracelet_beads__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/accessories/acc_bracelet_beads__blue.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bracelet_beads__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_bracelet_bangle"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.20996,
+   "anchorY": 0.52441,
+   "width": 0.0752,
+   "height": 0.01367
+  },
+  {
+   "id": "acc_ring_gold",
+   "name": "Gold Ring",
+   "category": "accessories",
+   "subgroup": "jewellery",
+   "assetPath": "assets/clothing/accessories/acc_ring_gold__gold.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_ring_gold__gold.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/accessories/acc_ring_gold__gold.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_ring_gold__gold.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "silver",
+     "name": "Silver",
+     "swatch": "#CFD3DA",
+     "assetPath": "assets/clothing/accessories/acc_ring_gold__silver.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_ring_gold__silver.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.20898,
+   "anchorY": 0.60645,
+   "width": 0.58105,
+   "height": 0.01221
+  },
+  {
+   "id": "acc_watch_tan",
+   "name": "Tan Strap Watch",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_watch_tan__brown.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_watch_tan__brown.webp",
+   "layerIndex": 110,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "brown",
+     "name": "Brown",
+     "swatch": "#9B6B4A",
+     "assetPath": "assets/clothing/accessories/acc_watch_tan__brown.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_watch_tan__brown.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_watch_tan__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_watch_tan__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_watch_gold"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.71484,
+   "anchorY": 0.51709,
+   "width": 0.07129,
+   "height": 0.02295
+  },
+  {
+   "id": "acc_watch_gold",
+   "name": "Gold Watch",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_watch_gold__gold.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_watch_gold__gold.webp",
+   "layerIndex": 110,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/accessories/acc_watch_gold__gold.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_watch_gold__gold.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "silver",
+     "name": "Silver",
+     "swatch": "#CFD3DA",
+     "assetPath": "assets/clothing/accessories/acc_watch_gold__silver.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_watch_gold__silver.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_watch_tan"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.71484,
+   "anchorY": 0.51709,
+   "width": 0.07129,
+   "height": 0.02295
+  },
+  {
+   "id": "acc_sunglasses_dark",
+   "name": "Dark Sunglasses",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_sunglasses_dark__default.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_sunglasses_dark__default.webp",
+   "layerIndex": 132,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "default",
+     "name": "Tortoise",
+     "swatch": "#3A2A28",
+     "assetPath": "assets/clothing/accessories/acc_sunglasses_dark__default.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_sunglasses_dark__default.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_sunglasses_pink"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.39551,
+   "anchorY": 0.10498,
+   "width": 0.20996,
+   "height": 0.03613
+  },
+  {
+   "id": "acc_sunglasses_pink",
+   "name": "Pink Heart Shades",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_sunglasses_pink__default.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_sunglasses_pink__default.webp",
+   "layerIndex": 132,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "default",
+     "name": "Rose",
+     "swatch": "#C46A82",
+     "assetPath": "assets/clothing/accessories/acc_sunglasses_pink__default.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_sunglasses_pink__default.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_sunglasses_dark"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.39551,
+   "anchorY": 0.10498,
+   "width": 0.20996,
+   "height": 0.03613
+  },
+  {
+   "id": "acc_clip_bar_gold",
+   "name": "Gold Bar Clips",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_clip_bar_gold__gold.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_bar_gold__gold.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "gold",
+     "name": "Gold",
+     "swatch": "#E3C074",
+     "assetPath": "assets/clothing/accessories/acc_clip_bar_gold__gold.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_bar_gold__gold.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "silver",
+     "name": "Silver",
+     "swatch": "#CFD3DA",
+     "assetPath": "assets/clothing/accessories/acc_clip_bar_gold__silver.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_bar_gold__silver.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_clip_star",
+    "acc_clip_flower_pink",
+    "acc_clip_heart_pink",
+    "acc_bow_pink",
+    "acc_bow_large"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.56445,
+   "anchorY": 0.05762,
+   "width": 0.0752,
+   "height": 0.03027
+  },
+  {
+   "id": "acc_clip_star",
+   "name": "Star Hair Clip",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_clip_star__yellow.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_star__yellow.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "yellow",
+     "name": "Yellow",
+     "swatch": "#F6DD8B",
+     "assetPath": "assets/clothing/accessories/acc_clip_star__yellow.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_star__yellow.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_clip_star__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_star__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_clip_bar_gold",
+    "acc_clip_flower_pink",
+    "acc_clip_heart_pink",
+    "acc_bow_pink",
+    "acc_bow_large"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.5752,
+   "anchorY": 0.05664,
+   "width": 0.05664,
+   "height": 0.02686
+  },
+  {
+   "id": "acc_clip_flower_pink",
+   "name": "Pink Flower Clip",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_clip_flower_pink__pink.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_flower_pink__pink.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_clip_flower_pink__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_flower_pink__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_clip_flower_pink__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_flower_pink__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_clip_bar_gold",
+    "acc_clip_star",
+    "acc_clip_heart_pink",
+    "acc_bow_pink",
+    "acc_bow_large"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.56934,
+   "anchorY": 0.05566,
+   "width": 0.06836,
+   "height": 0.03125
+  },
+  {
+   "id": "acc_clip_heart_pink",
+   "name": "Pink Hair Clip",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_clip_heart_pink__rose.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_heart_pink__rose.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_clip_heart_pink__rose.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_heart_pink__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_clip_heart_pink__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_clip_heart_pink__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_clip_bar_gold",
+    "acc_clip_star",
+    "acc_clip_flower_pink",
+    "acc_bow_pink",
+    "acc_bow_large"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.57617,
+   "anchorY": 0.05957,
+   "width": 0.05469,
+   "height": 0.02393
+  },
+  {
+   "id": "acc_hairband_pink",
+   "name": "Pink Hairband",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_hairband_pink__pink.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hairband_pink__pink.webp",
+   "layerIndex": 135,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_hairband_pink__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hairband_pink__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_hairband_pink__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hairband_pink__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_hairband_pink__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hairband_pink__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_hairband_knot",
+    "acc_hat_sun",
+    "acc_hat_beret",
+    "acc_hat_cap"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.35449,
+   "anchorY": 0.02002,
+   "width": 0.29102,
+   "height": 0.08789
+  },
+  {
+   "id": "acc_hairband_knot",
+   "name": "Bow Hairband",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_hairband_knot__rose.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hairband_knot__rose.webp",
+   "layerIndex": 135,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_hairband_knot__rose.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hairband_knot__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "blue",
+     "name": "Blue",
+     "swatch": "#B9D3EC",
+     "assetPath": "assets/clothing/accessories/acc_hairband_knot__blue.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hairband_knot__blue.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_hairband_pink",
+    "acc_hat_sun",
+    "acc_hat_beret",
+    "acc_hat_cap"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.35449,
+   "anchorY": 0.01855,
+   "width": 0.29102,
+   "height": 0.08936
+  },
+  {
+   "id": "acc_bow_pink",
+   "name": "Pink Hair Bow",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_bow_pink__rose.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bow_pink__rose.webp",
+   "layerIndex": 130,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_bow_pink__rose.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bow_pink__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_bow_pink__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bow_pink__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_bow_pink__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bow_pink__lavender.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_clip_bar_gold",
+    "acc_clip_star",
+    "acc_clip_flower_pink",
+    "acc_clip_heart_pink",
+    "acc_bow_large"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.54395,
+   "anchorY": 0.04492,
+   "width": 0.12695,
+   "height": 0.03516
+  },
+  {
+   "id": "acc_bow_large",
+   "name": "Big Satin Bow",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_bow_large__pink.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bow_large__pink.webp",
+   "layerIndex": 130,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_bow_large__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bow_large__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_bow_large__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_bow_large__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_clip_bar_gold",
+    "acc_clip_star",
+    "acc_clip_flower_pink",
+    "acc_clip_heart_pink",
+    "acc_bow_pink"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.50684,
+   "anchorY": 0.02734,
+   "width": 0.20117,
+   "height": 0.05469
+  },
+  {
+   "id": "acc_hat_sun",
+   "name": "Straw Sun Hat",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_hat_sun__beige.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_sun__beige.webp",
+   "layerIndex": 135,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "beige",
+     "name": "Beige",
+     "swatch": "#E5D2B3",
+     "assetPath": "assets/clothing/accessories/acc_hat_sun__beige.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_sun__beige.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_hat_sun__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_sun__pink.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_hairband_pink",
+    "acc_hairband_knot",
+    "acc_hat_beret",
+    "acc_hat_cap"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.27441,
+   "anchorY": 0.00879,
+   "width": 0.45215,
+   "height": 0.10205
+  },
+  {
+   "id": "acc_hat_beret",
+   "name": "Soft Beret",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_hat_beret__rose.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_beret__rose.webp",
+   "layerIndex": 135,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "rose",
+     "name": "Rose",
+     "swatch": "#E98DA4",
+     "assetPath": "assets/clothing/accessories/acc_hat_beret__rose.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_beret__rose.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_hat_beret__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_beret__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "black",
+     "name": "Black",
+     "swatch": "#4A4650",
+     "assetPath": "assets/clothing/accessories/acc_hat_beret__black.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_beret__black.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_hairband_pink",
+    "acc_hairband_knot",
+    "acc_hat_sun",
+    "acc_hat_cap"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.33691,
+   "anchorY": 0.00146,
+   "width": 0.32617,
+   "height": 0.07861
+  },
+  {
+   "id": "acc_hat_cap",
+   "name": "Baseball Cap",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_hat_cap__white.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_cap__white.webp",
+   "layerIndex": 135,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_hat_cap__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_cap__white.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_hat_cap__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_cap__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "denim",
+     "name": "Denim",
+     "swatch": "#A9C8E6",
+     "assetPath": "assets/clothing/accessories/acc_hat_cap__denim.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_hat_cap__denim.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_hairband_pink",
+    "acc_hairband_knot",
+    "acc_hat_sun",
+    "acc_hat_beret"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.36816,
+   "anchorY": 0.0083,
+   "width": 0.26367,
+   "height": 0.0918
+  },
+  {
+   "id": "acc_scarf_plaid",
+   "name": "Plaid Scarf",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_scarf_plaid__cream.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_scarf_plaid__cream.webp",
+   "layerIndex": 100,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "cream",
+     "name": "Cream",
+     "swatch": "#F2E4CF",
+     "assetPath": "assets/clothing/accessories/acc_scarf_plaid__cream.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_scarf_plaid__cream.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_scarf_plaid__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_scarf_plaid__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_scarf_soft"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.4043,
+   "anchorY": 0.19238,
+   "width": 0.19531,
+   "height": 0.21484
+  },
+  {
+   "id": "acc_scarf_soft",
+   "name": "Soft Knit Scarf",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_scarf_soft__lavender.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_scarf_soft__lavender.webp",
+   "layerIndex": 100,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_scarf_soft__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_scarf_soft__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_scarf_soft__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_scarf_soft__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "sage",
+     "name": "Sage",
+     "swatch": "#CBD8C2",
+     "assetPath": "assets/clothing/accessories/acc_scarf_soft__sage.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_scarf_soft__sage.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [
+    "acc_scarf_plaid"
+   ],
+   "extraLayers": [],
+   "anchorX": 0.4043,
+   "anchorY": 0.19238,
+   "width": 0.19531,
+   "height": 0.21484
+  },
+  {
+   "id": "acc_headphones_pink",
+   "name": "Pink Headphones",
+   "category": "accessories",
+   "subgroup": "other",
+   "assetPath": "assets/clothing/accessories/acc_headphones_pink__pink.webp",
+   "thumbnailPath": "assets/clothing/accessories/thumbs/acc_headphones_pink__pink.webp",
+   "layerIndex": 100,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [
+    {
+     "id": "pink",
+     "name": "Pink",
+     "swatch": "#F4B8C6",
+     "assetPath": "assets/clothing/accessories/acc_headphones_pink__pink.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_headphones_pink__pink.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender",
+     "swatch": "#CDBDEB",
+     "assetPath": "assets/clothing/accessories/acc_headphones_pink__lavender.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_headphones_pink__lavender.webp",
+     "extraAssetPaths": []
+    },
+    {
+     "id": "white",
+     "name": "White",
+     "swatch": "#FBF7F0",
+     "assetPath": "assets/clothing/accessories/acc_headphones_pink__white.webp",
+     "thumbnailPath": "assets/clothing/accessories/thumbs/acc_headphones_pink__white.webp",
+     "extraAssetPaths": []
+    }
+   ],
+   "conflictsWith": [],
+   "extraLayers": [],
+   "anchorX": 0.35645,
+   "anchorY": 0.18896,
+   "width": 0.28809,
+   "height": 0.04346
+  },
+  {
+   "id": "hair_long_straight",
+   "name": "Long Straight",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/long_straight/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/long_straight/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/long_straight/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.28906,
+     "anchorY": 0.03174,
+     "width": 0.42188,
+     "height": 0.46729
+    }
+   ],
+   "anchorX": 0.30859,
+   "anchorY": 0.02393,
+   "width": 0.37988,
+   "height": 0.34521
+  },
+  {
+   "id": "hair_long_wavy",
+   "name": "Long Wavy",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/long_wavy/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/long_wavy/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/long_wavy/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.22949,
+     "anchorY": 0.03174,
+     "width": 0.54004,
+     "height": 0.4707
+    }
+   ],
+   "anchorX": 0.26074,
+   "anchorY": 0.02393,
+   "width": 0.47949,
+   "height": 0.35352
+  },
+  {
+   "id": "hair_high_ponytail",
+   "name": "High Ponytail",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/high_ponytail/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/high_ponytail/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/high_ponytail/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.49512,
+     "anchorY": 0.01904,
+     "width": 0.23242,
+     "height": 0.354
+    }
+   ],
+   "anchorX": 0.36328,
+   "anchorY": 0.02148,
+   "width": 0.27344,
+   "height": 0.15918
+  },
+  {
+   "id": "hair_low_ponytail",
+   "name": "Low Ponytail",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/low_ponytail/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/low_ponytail/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/low_ponytail/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.36133,
+     "anchorY": 0.08105,
+     "width": 0.27734,
+     "height": 0.13379
+    }
+   ],
+   "anchorX": 0.36328,
+   "anchorY": 0.02393,
+   "width": 0.34863,
+   "height": 0.39795
+  },
+  {
+   "id": "hair_double_ponytail",
+   "name": "Double Ponytail",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/double_ponytail/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/double_ponytail/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/double_ponytail/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.36133,
+     "anchorY": 0.08105,
+     "width": 0.27734,
+     "height": 0.12842
+    }
+   ],
+   "anchorX": 0.2666,
+   "anchorY": 0.02393,
+   "width": 0.46777,
+   "height": 0.36914
+  },
+  {
+   "id": "hair_braided",
+   "name": "Side Braid",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/braided/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/braided/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/braided/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.36133,
+     "anchorY": 0.08105,
+     "width": 0.27734,
+     "height": 0.12842
+    }
+   ],
+   "anchorX": 0.36328,
+   "anchorY": 0.02393,
+   "width": 0.30566,
+   "height": 0.49072
+  },
+  {
+   "id": "hair_messy_bun",
+   "name": "Messy Bun",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/messy_bun/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/messy_bun/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": true,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/messy_bun/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.0,
+     "anchorY": 0.0,
+     "width": 0.00098,
+     "height": 0.00049
+    }
+   ],
+   "anchorX": 0.36328,
+   "anchorY": 0.00586,
+   "width": 0.27344,
+   "height": 0.1748
+  },
+  {
+   "id": "hair_high_bun",
+   "name": "High Bun",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/high_bun/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/high_bun/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/high_bun/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.0,
+     "anchorY": 0.0,
+     "width": 0.00098,
+     "height": 0.00049
+    }
+   ],
+   "anchorX": 0.36328,
+   "anchorY": 0.00635,
+   "width": 0.27344,
+   "height": 0.15576
+  },
+  {
+   "id": "hair_short_bob",
+   "name": "Short Bob",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/short_bob/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/short_bob/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/short_bob/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.31836,
+     "anchorY": 0.03174,
+     "width": 0.36328,
+     "height": 0.19336
+    }
+   ],
+   "anchorX": 0.32715,
+   "anchorY": 0.02393,
+   "width": 0.3457,
+   "height": 0.19971
+  },
+  {
+   "id": "hair_shoulder_wavy",
+   "name": "Shoulder Wavy",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/shoulder_wavy/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/shoulder_wavy/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/shoulder_wavy/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.28418,
+     "anchorY": 0.03174,
+     "width": 0.43164,
+     "height": 0.27588
+    }
+   ],
+   "anchorX": 0.29883,
+   "anchorY": 0.02393,
+   "width": 0.40234,
+   "height": 0.26953
+  },
+  {
+   "id": "hair_half_up",
+   "name": "Half-Up",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/half_up/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/half_up/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/half_up/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.22949,
+     "anchorY": 0.03174,
+     "width": 0.54004,
+     "height": 0.46973
+    }
+   ],
+   "anchorX": 0.25781,
+   "anchorY": 0.01514,
+   "width": 0.4834,
+   "height": 0.36475
+  },
+  {
+   "id": "hair_curly",
+   "name": "Curly",
+   "category": "hair",
+   "subgroup": null,
+   "assetPath": "assets/clothing/hairstyles/curly/{character}_front.webp",
+   "thumbnailPath": "assets/clothing/hairstyles/curly/{character}_thumb.webp",
+   "layerIndex": 120,
+   "premium": false,
+   "compatibleCharacters": [],
+   "colorVariants": [],
+   "conflictsWith": [],
+   "extraLayers": [
+    {
+     "assetPath": "assets/clothing/hairstyles/curly/{character}_back.webp",
+     "layerIndex": 20,
+     "anchorX": 0.23242,
+     "anchorY": 0.02393,
+     "width": 0.53516,
+     "height": 0.33643
+    }
+   ],
+   "anchorX": 0.25684,
+   "anchorY": 0.01855,
+   "width": 0.48828,
+   "height": 0.32617
+  }
+ ]
+}
